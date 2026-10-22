@@ -1,0 +1,1 @@
+Set --arabic-font to an installed Arabic TTF font to generate this word cloud.
